@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return new Scaffold(
       body: new Column(
         children: <Widget>[
-          new GradientAppBar("كووورة"),
+          new GradientAppBar("Devlo World"),
           new HomePageBody(),
         ],
       ),
